@@ -1,6 +1,6 @@
 {
-  "name": "module",
-  "title": "New Module",
+  "name": "r20-vttes-to-foundry",
+  "title": "R20 To Foundry",
   "description": "",
   "version": "This is auto replaced",
   "library": "false",
@@ -9,9 +9,7 @@
   "compatibleCoreVersion": "0.7.9",
   "authors": [
     {
-      "name": "The League of Extraordinary FVTT Developers",
-      "url": "https://github.com/League-of-Foundry-Developers",
-      "discord": "discordID#0001"
+      "name": "SetaSensei"
     }
   ],
   "dependencies": [
