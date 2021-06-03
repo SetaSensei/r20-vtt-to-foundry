@@ -51,3 +51,6 @@ Does something, probably
 
 ## Changelog
 
+
+
+https://github.com/SetaSensei/r20-vtt-to-foundry/releases/latest/download/module.json
